@@ -1,0 +1,4 @@
+host = uniquestraindatabase.czwuuwkekmhf.us-east-2.rds.amazonaws.com
+user = admin
+passwor = Nepencil32
+nombre database = CasinWeb
